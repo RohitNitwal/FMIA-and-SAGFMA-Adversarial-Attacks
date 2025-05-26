@@ -40,12 +40,14 @@ Each attack is evaluated across 5 dimensions:
 ## File Structure
 
 ```
-adversarial_robustness_suite/
+adversarial_evaluation/
 ├── config.py                          # Configuration settings
 ├── utils.py                           # Utility functions
 ├── evaluations.py                     # Evaluation functions
+├── visualizations.py                  # Visualizations
+├── benchmarking.py                    # Main benchmarking
+├── epsilon_sensitivity.py             # Epsilon sensitivity 
 ├── attacks/                           # Attack implementations
-├── run_benchmarking.py                # Main benchmarking
 ├── run_sagfma2_simple_ablation.py     # SAGFMA2 ablation 
 ├── run_sagfma_ablation.py             # SAGFMA ablation =
 ├── run_fmia_ablation.py               # FMIA ablation 
