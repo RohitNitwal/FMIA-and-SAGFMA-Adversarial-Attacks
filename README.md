@@ -30,7 +30,7 @@ A framework for evaluating adversarial attacks and defenses with advanced freque
 Each attack is evaluated across 5 dimensions:
 1. **Primary Evaluation**: Attack success rates with confidence intervals
 2. **Transferability**: Cross-model attack success
-3. **Defense Robustness**: JPEG compression, noise filtering
+3. **Defense Robustness**: JPEG compression
 4. **Resolution Sensitivity**: Multi-scale robustness
 5. **Epsilon Sensitivity**: Perturbation budget analysis
 
