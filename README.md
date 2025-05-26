@@ -9,7 +9,7 @@ A framework for evaluating adversarial attacks and defenses with advanced freque
 
 - **Novel Frequency-Domain Attacks**: SAGFMA, SAGFMA2, FMIA with spatial-frequency analysis
 - **Comprehensive Evaluation**: Primary attacks, transferability, defenses, resolution sensitivity
-- **Extensive Ablation Studies**:SAGFMA2 configurations, SAGFMA configurations, FMIA configurations
+- **Extensive Ablation Studies**: SAGFMA2 configurations, SAGFMA configurations, FMIA configurations
 - **Rich Visualizations**: FFT analysis, frequency band overlays, radial energy profiles
 
 
@@ -46,9 +46,9 @@ adversarial_robustness_suite/
 ├── evaluations.py                     # Evaluation functions
 ├── attacks/                           # Attack implementations
 ├── run_benchmarking.py                # Main benchmarking
-├── run_sagfma2_simple_ablation.py     # SAGFMA2 ablation (63+ configs)
-├── run_sagfma_ablation.py             # SAGFMA ablation (112+ configs)
-├── run_fmia_ablation.py             # SAGFMA ablation (112+ configs)
+├── run_sagfma2_simple_ablation.py     # SAGFMA2 ablation 
+├── run_sagfma_ablation.py             # SAGFMA ablation =
+├── run_fmia_ablation.py               # FMIA ablation 
 └── run_visualizations.py              # Visualization generation
 ```
 
