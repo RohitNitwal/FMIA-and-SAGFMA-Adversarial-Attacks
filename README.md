@@ -18,7 +18,7 @@ A framework for evaluating adversarial attacks and defenses with advanced freque
 ## Supported Attacks
 
 ### Standard Attacks
-- FGSM, PGD, MI-FGSM, TI-FGSM and an attack available on torchattacks library
+- FGSM, PGD, MI-FGSM, TI-FGSM and all of the attacks available on torchattacks library
 
 ### Novel Frequency-Domain Attacks
 - **SAGFMA**: Self-Attention Guided Frequency Momentum Attack
